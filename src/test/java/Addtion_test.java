@@ -4,7 +4,7 @@ import org.junit.Test;
 public class Addtion_test {
 
     /** test to check addion method
-    
+
     */
 
 @Test

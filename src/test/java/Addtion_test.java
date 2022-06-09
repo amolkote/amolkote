@@ -10,8 +10,8 @@ public class Addtion_test {
 @Test
     public void additionTest() {
 
-        Addition ad= new Addition();
-    assertEquals(ad.expectAnswerofAdditionMethood, ad.addition(10,10));
+        Addition add= new Addition();
+    assertEquals(add.expectAnswerofAdditionMethood, add.addition(20,10));
 
     }
 

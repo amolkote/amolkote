@@ -1,0 +1,10 @@
+public class testFileAdded {
+
+    private int substarction(int First_number ,int Second_number){
+
+
+        return First_number -Second_number ;
+    }
+
+
+}
